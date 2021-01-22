@@ -1,0 +1,2 @@
+# newfair
+learning to code
